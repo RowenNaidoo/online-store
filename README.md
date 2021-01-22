@@ -31,8 +31,9 @@ npm test
 
 ## Assumptions
 
-1. No UI designs were provided so the best was done with the time allowed with regards to making it functional and providing a good user experience.
-2. No details were provided regarding the input object for the checkout api so i was not sure whether to submit the summarized cart items or the cart as it was so the latter was done.
+1. The products api returns a small dataset so the results are rendered as is. No paging option was available, usually with big datasets the results would be paged for performance.
+2. No UI designs were provided so the best was done with the time allowed with regards to making it functional and providing a good user experience.
+3. No details were provided regarding the input object for the checkout api so i was not sure whether to submit the summarized cart items or the cart as it was so the latter was done.
 
 ## Given more time I would
 
