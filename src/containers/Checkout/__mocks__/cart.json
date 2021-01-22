@@ -1,0 +1,23 @@
+[
+  {
+    "productId": "bcf1371f-0eac-472b-83d0-efde4a0515e8",
+    "name": "Honeydew",
+    "description": "Yellow skinned melon with white or green flesh.",
+    "audPrice": 2.3,
+    "stockOnHand": 30
+  },
+  {
+    "productId": "59133a06-5a12-4c65-8612-78a8b5567cd7",
+    "name": "Kiwi Fruit",
+    "description": "Oval shaped fruit, tapering at one end, with thin, brown, furry skin and gold-coloured flesh. Imported from New Zealand.",
+    "audPrice": 0.98,
+    "stockOnHand": 200
+  },
+  {
+    "productId": "bcf1371f-0eac-472b-83d0-efde4a0515e8",
+    "name": "Honeydew",
+    "description": "Yellow skinned melon with white or green flesh.",
+    "audPrice": 2.3,
+    "stockOnHand": 30
+  }
+]
